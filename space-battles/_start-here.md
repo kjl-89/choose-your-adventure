@@ -1,10 +1,9 @@
 
 # Space Battles - Episode IV: A New Spark
 
-## Opening Crawl
+## 🎬 Opening Crawl
 
-EPISODE IV
-A NEW SPARK
+### EPISODE IV: A NEW SPARK
 
 It is a time of rebellion. Scattered freedom fighters wage a desperate war against a tyrannical Galactic Dominion that rules the stars with an iron grip.
 
