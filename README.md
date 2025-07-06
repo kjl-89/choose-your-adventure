@@ -9,6 +9,10 @@ This framework allows you to create interactive adventures using Markdown files.
 
 ---
 
+## 🌟 Example Story
+
+[Space Battles](https://github.com/fvtc/choose-your-adventure/blob/master/space-battles/_start-here.md) — A Star Wars-inspired branching adventure.]
+
 ## 📁 Folder Structure
 
 Each story should live in its own folder.
@@ -91,10 +95,6 @@ Place it in a new folder under /your-story-name/.
 Keep your Markdown clean, readable, and consistent.
 
 Make sure all links resolve correctly.
-
-## 🌟 Example Stories
-
-Space Battles — A Star Wars-inspired branching adventure.
 
 ## 📬 Questions?
 Open an issue or start a discussion — we’re always happy to help storytellers bring their universe to life!
