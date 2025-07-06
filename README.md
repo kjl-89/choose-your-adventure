@@ -55,7 +55,9 @@ Then present the choices using bullet points. Each choice should link to another
 ```
 
 ✅ Use emoji to add tone and make choices visually distinct.
+
 ✅ Keep scene names short and match the filenames (scene1.md, scene2A.md, etc.).
+
 ✅ Use relative links (../story-name/scene2A.md, not absolute URLs).
 
 
