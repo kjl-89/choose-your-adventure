@@ -9,4 +9,4 @@ Old Ken emerges from the rocks and drives the scavengers away.
 
 > “Not bad,” he smirks. “But next time, try calling for help first.”
 
-- ⚔️ [Train with Old Ken](../space-battles/4A.md)
+- ⚔️ [Train with Old Ken](./scene4A.md)

@@ -11,4 +11,4 @@ By nightfall, your homestead is ashes. The Dominion is hunting something — or 
 
 > “Maybe I should’ve listened to that message,” you think.
 
-- 🔥 [Swear to find out what really happened](../space-battles/4F.md)
+- 🔥 [Swear to find out what really happened](./scene4F.md)

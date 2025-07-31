@@ -7,6 +7,6 @@ Later that night, your homestead is stormed by black-armored troopers. Your home
 
 You’ve made a terrible mistake.
 
-- 🔥 [Swear vengeance and go into hiding](../space-battles/4F.md)
+- 🔥 [Swear vengeance and go into hiding](./scene4F.md)
 
-- 💼 [Try to join the Dominion as a cadet to learn their secrets](../space-battles/4G.md)
+- 💼 [Try to join the Dominion as a cadet to learn their secrets](./scene4G.md)

@@ -7,8 +7,8 @@ You tinker with the droid and unlock the full message. A cloaked woman pleads fo
 
 What now?
 
-- 🏜️ [Sneak out to find the hermit yourself](../space-battles/3A.md)
+- 🏜️ [Sneak out to find the hermit yourself](./scene3A.md)
 
-- 🤝 [Wait for nightfall and ask a friend to come with you](../space-battles/3B.md)
+- 🤝 [Wait for nightfall and ask a friend to come with you](./scene3B.md)
 
-- 🚔 [Report this to the local authorities](../space-battles/3C.md)
+- 🚔 [Report this to the local authorities](./scene3C.md)

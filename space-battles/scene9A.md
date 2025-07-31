@@ -11,6 +11,6 @@ Old Ken’s voice echoes in your mind:
 
 Do you…
 
-- 🧮 [Rely on the targeting computer](../space-battles/10A.md)
+- 🧮 [Rely on the targeting computer](./scene10A.md)
 
-- 🎯 [Take the shot using the Spark](../space-battles/10B.md)
+- 🎯 [Take the shot using the Spark](./scene10B.md)

@@ -9,6 +9,6 @@ He also tells you of the Dominion’s planet-killing battle station and the rebe
 
 Soon, a distress call arrives: the cloaked woman has been captured. The Dominion is headed for her homeworld next.
 
-- 🚀 [Agree to help Old Ken reach the rebels](../space-battles/5A.md)
+- 🚀 [Agree to help Old Ken reach the rebels](./scene5A.md)
 
-- 🧭 [Ask to complete your training first — you’re not ready yet](../space-battles/5B.md)
+- 🧭 [Ask to complete your training first — you’re not ready yet](./scene5B.md)

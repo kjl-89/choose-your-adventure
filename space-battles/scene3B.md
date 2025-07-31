@@ -7,8 +7,8 @@ Along the way, you're ambushed by cloaked scavengers! They surround you with stu
 
 What do you do?
 
-- 💥 [Try to fight your way out](../space-battles/4C.md)
+- 💥 [Try to fight your way out](./scene4C.md)
 
-- 📣 [Call out for help — maybe Old Ken is nearby](../space-battles/4D.md)
+- 📣 [Call out for help — maybe Old Ken is nearby](./scene4D.md)
 
-- 🕳️ [Use the rocks to slip away and regroup](../space-battles/4E.md)
+- 🕳️ [Use the rocks to slip away and regroup](./scene4E.md)

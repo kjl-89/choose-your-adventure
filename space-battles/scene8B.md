@@ -7,4 +7,4 @@ You’re chosen to lead the final assault. The cloaked woman watches from the co
 
 You climb into your starfighter, heart pounding, as the fleet launches toward the looming metal moon.
 
-- 🚀 [Begin the final run](../space-battles/9A.md)
+- 🚀 [Begin the final run](./scene9A.md)

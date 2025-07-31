@@ -5,6 +5,6 @@ You brush it off. Probably just a corrupted message from some old battle. Still,
 
 That night, you hear strange sounds outside. Lights in the sky. Maybe it wasn’t just a glitch…
 
-- 🌠 [Investigate the lights in the sky](../space-battles/3D.md)
+- 🌠 [Investigate the lights in the sky](./scene3D.md)
 
-- 🛏️ [Stay inside — no good comes from chasing trouble](../space-battles/3E.md)
+- 🛏️ [Stay inside — no good comes from chasing trouble](./scene3E.md)

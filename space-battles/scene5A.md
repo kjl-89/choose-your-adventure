@@ -7,6 +7,6 @@ As Dominion forces close in, you escape in their modified freighter, barely dodg
 
 > “Hang on, kid!” the pilot shouts. “Next stop: rebel command.”
 
-- 🌌 [Head straight to the rebellion with the droid and its data](../space-battles/6A.md)
+- 🌌 [Head straight to the rebellion with the droid and its data](./scene6A.md)
 
-- 🛰️ [Intercept a Dominion transmission — the cloaked woman is being held on the battle station!](../space-battles/6B.md)
+- 🛰️ [Intercept a Dominion transmission — the cloaked woman is being held on the battle station!](./scene6B.md)

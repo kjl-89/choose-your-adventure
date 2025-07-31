@@ -7,4 +7,4 @@ There’s a narrow exhaust port — a perfect hit there could trigger a chain re
 
 It’ll take precise flying… and faith in the Spark.
 
-- 🎯 [Volunteer for the assault](../space-battles/8B.md)
+- 🎯 [Volunteer for the assault](./scene8B.md)

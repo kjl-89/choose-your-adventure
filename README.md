@@ -53,16 +53,16 @@ A short paragraph or two describing the scene. This is where you set the stage f
 
 Then present the choices using bullet points. Each choice should link to another scene file:
 
-- 🛸 [Go to the spaceport](../space-battles/2A.md)
-- 🤖 [Talk to the droid](../space-battles/2B.md)
-- 🚀 [Board the starship](../space-battles/2C.md)
+- 🛸 [Go to the spaceport](./scene2A.md)
+- 🤖 [Talk to the droid](./scene2B.md)
+- 🚀 [Board the starship](./scene2C.md)
 ```
 
 ✅ Use emoji to add tone and make choices visually distinct.
 
 ✅ Keep scene names short and match the filenames (scene1.md, scene2A.md, etc.).
 
-✅ Use relative links (../space-battles/2A.md, not absolute URLs).
+✅ Use relative links (./scene2A.md, not absolute URLs).
 
 
 ## 🪐 Design Tips
@@ -83,7 +83,7 @@ Want to start a new story? Fork and clone this repo, then:
 1. Create a new folder for your story.
 2. Add an `_start-here.md` file as the entry point.
 3. Write your scenes in Markdown files, linking them together with choices.
-4. Use relative links to connect scenes (e.g., `../space-battles/2A.md`).
+4. Use relative links to connect scenes (e.g., `./scene2A.md`).
 5. Test your links to ensure they work correctly.
 
 ## 🧑‍🚀 Contributing

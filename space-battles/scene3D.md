@@ -11,6 +11,6 @@ But you do find part of a broken recording:
 
 Suddenly, a shadow looms behind you — a cloaked scavenger!
 
-- 🏃 [Run back to your farm as fast as you can](../space-battles/4B.md)
+- 🏃 [Run back to your farm as fast as you can](./scene4B.md)
 
-- 🧭 [Follow the scavenger and try to find the droid](../space-battles/4E.md)
+- 🧭 [Follow the scavenger and try to find the droid](./scene4E.md)
