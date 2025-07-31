@@ -5,4 +5,4 @@ Your co-pilot roars and runs down a hallway with a stolen detonator. Dominion gu
 
 You slip through maintenance tunnels and reach the ship with the cloaked woman.
 
-- 🛸 [Escape the station and return to the rebels](../space-battles/scene8A.md)
+- 🛸 [Escape the station and return to the rebels](./scene8A.md)

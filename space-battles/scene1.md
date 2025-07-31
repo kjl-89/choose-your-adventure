@@ -9,10 +9,10 @@ Today, while cleaning a dusty old helper droid, you stumble on a hidden recordin
 
 What do you do?
 
-- 🛠️ [Play the full message and try to find out who the woman is](../space-battles/scene2A.md)
+- 🛠️ [Play the full message and try to find out who the woman is](./scene2A.md)
 
-- 🙈 [Ignore it — probably just a glitch](../space-battles/scene2B.md)
+- 🙈 [Ignore it — probably just a glitch](./scene2B.md)
 
-- 🧓 [Tell your uncle — maybe he’ll know what to do](../space-battles/scene2C.md)
+- 🧓 [Tell your uncle — maybe he’ll know what to do](./scene2C.md)
 
 

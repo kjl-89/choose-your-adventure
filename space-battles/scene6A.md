@@ -7,6 +7,6 @@ Buried in the schematics is a weakness… but before the rebels can act, word ar
 
 > “The cloaked woman is aboard the station — and it’s heading to her homeworld.”
 
-- 🛰️ [Join a mission to rescue her and buy time](../space-battles/scene7A.md)
+- 🛰️ [Join a mission to rescue her and buy time](./scene7A.md)
 
-- ✈️ [Stay with the rebels and help plan the final assault](../space-battles/scene7B.md)
+- ✈️ [Stay with the rebels and help plan the final assault](./scene7B.md)

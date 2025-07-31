@@ -7,4 +7,4 @@ He becomes one with the Spark as you escape.
 
 You board the ship with the others, shaken but alive.
 
-- 🌠 [Fly to the rebel base with the stolen plans](../space-battles/scene8A.md)
+- 🌠 [Fly to the rebel base with the stolen plans](./scene8A.md)

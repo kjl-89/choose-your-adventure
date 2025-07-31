@@ -7,4 +7,4 @@ You blast through Dominion patrols and reach the cloaked woman’s cell. She’s
 
 You escape through trash chutes, narrow corridors, and laser fire — until you reach the ship.
 
-- 🚀 [Return to the rebels with the plans and the princess](../space-battles/scene8A.md)
+- 🚀 [Return to the rebels with the plans and the princess](./scene8A.md)

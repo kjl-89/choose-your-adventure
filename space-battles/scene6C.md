@@ -7,4 +7,4 @@ Old Ken arrives just in time. The two clash, blades humming in the darkness.
 
 > “Run,” he says. “You’re the spark now.”
 
-- 💔 [Escape while Old Ken holds him off](../space-battles/scene7E.md)
+- 💔 [Escape while Old Ken holds him off](./scene7E.md)

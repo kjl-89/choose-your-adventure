@@ -9,4 +9,4 @@ You hesitate — but the cloaked woman grabs your arm.
 
 > “There’s no time. He’s doing this for us.”
 
-- 😞 [Escape to the ship](../space-battles/scene8A.md)
+- 😞 [Escape to the ship](./scene8A.md)

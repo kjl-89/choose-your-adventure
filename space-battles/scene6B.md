@@ -7,6 +7,6 @@ You find the cloaked woman in a high-security cell, defiant and unbroken. Togeth
 
 > “I knew someone would come,” she says. “Now let’s get out alive.”
 
-- 🔫 [Shoot your way to the hangar bay](../space-battles/scene7C.md)
+- 🔫 [Shoot your way to the hangar bay](./scene7C.md)
 
-- 🐒 [Let the hairy co-pilot cause a distraction while you sneak out](../space-battles/scene7D.md)
+- 🐒 [Let the hairy co-pilot cause a distraction while you sneak out](./scene7D.md)

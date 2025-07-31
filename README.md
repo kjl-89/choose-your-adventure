@@ -53,16 +53,16 @@ A short paragraph or two describing the scene. This is where you set the stage f
 
 Then present the choices using bullet points. Each choice should link to another scene file:
 
-- 🛸 [Go to the spaceport](../story-name/scene2A.md)
-- 🤖 [Talk to the droid](../story-name/scene2B.md)
-- 🚀 [Board the starship](../story-name/scene2C.md)
+- 🛸 [Go to the spaceport](./scene2A.md)
+- 🤖 [Talk to the droid](./scene2B.md)
+- 🚀 [Board the starship](./scene2C.md)
 ```
 
 ✅ Use emoji to add tone and make choices visually distinct.
 
 ✅ Keep scene names short and match the filenames (scene1.md, scene2A.md, etc.).
 
-✅ Use relative links (../story-name/scene2A.md, not absolute URLs).
+✅ Use relative links (./scene2A.md, not absolute URLs).
 
 
 ## 🪐 Design Tips
@@ -83,7 +83,7 @@ Want to start a new story? Fork and clone this repo, then:
 1. Create a new folder for your story.
 2. Add an `_start-here.md` file as the entry point.
 3. Write your scenes in Markdown files, linking them together with choices.
-4. Use relative links to connect scenes (e.g., `../your-story-name/scene2A.md`).
+4. Use relative links to connect scenes (e.g., `./scene2A.md`).
 5. Test your links to ensure they work correctly.
 
 ## 🧑‍🚀 Contributing
@@ -95,6 +95,12 @@ Place it in a new folder under /your-story-name/.
 Keep your Markdown clean, readable, and consistent.
 
 Make sure all links resolve correctly.
+
+## 🔌 Plug-in Recommendation
+
+For a better writing experience, consider using Matt Bierner's [Markdown Preview GitHub Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) extension in VS Code. It provides a GitHub-like preview of your Markdown files, making it easier to visualize your story as you write.
+
+Once installed, you can open the Markdown preview with the shortcut `Ctrl+Shift+V` (or `Cmd+Shift+V` on macOS) to see how your story will look with GitHub's styling.
 
 ## 📬 Questions?
 Open an issue or start a discussion — we’re always happy to help storytellers bring their universe to life!
