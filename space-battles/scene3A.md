@@ -11,6 +11,6 @@ He listens to your story, then shows you a hidden device — a glowing blade of 
 
 What now?
 
-- ⚔️ [Train with Old Ken and learn the ways of the spark](./scene4A.md)
+- ⚔️ [Train with Old Ken and learn the ways of the spark](../space-battles/4A.md)
 
-- 🏃 [This is too much — run back home before things get worse](./scene4B.md)
+- 🏃 [This is too much — run back home before things get worse](../space-battles/4B.md)

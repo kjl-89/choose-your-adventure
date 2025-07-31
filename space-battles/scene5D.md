@@ -7,4 +7,4 @@ You begin to feel the Spark — and your own connection to it.
 
 Suddenly, a message comes through: the cloaked woman is held prisoner aboard the Dominion’s battle station.
 
-- 🛰️ [Join a risky mission to rescue her](./scene6B.md)
+- 🛰️ [Join a risky mission to rescue her](../space-battles/6B.md)

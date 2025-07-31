@@ -7,6 +7,6 @@ You shout, and from the canyon walls a hooded figure appears — *Old Ken*. With
 
 He invites you both to his home.
 
-- 🧠 [Learn the truth about the Dominion and the Spark](./scene5D.md)
+- 🧠 [Learn the truth about the Dominion and the Spark](../space-battles/5D.md)
 
-- 🧳 [Ask for his help escaping the planet](./scene5C.md)
+- 🧳 [Ask for his help escaping the planet](../space-battles/5C.md)

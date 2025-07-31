@@ -11,6 +11,6 @@ Old Ken appears behind you.
 
 > “There’s no going back. But there is a path forward.”
 
-- 💥 [Join Old Ken and fight for the rebellion](./scene5A.md)
+- 💥 [Join Old Ken and fight for the rebellion](../space-battles/5A.md)
 
-- 🛩️ [Steal a local speeder and try to escape the planet](./scene5C.md)
+- 🛩️ [Steal a local speeder and try to escape the planet](../space-battles/5C.md)

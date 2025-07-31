@@ -9,6 +9,6 @@ Old Ken finds you days later.
 
 Do you…
 
-- 🌌 [Join the rebellion to stop the Dominion](./scene5A.md)
+- 🌌 [Join the rebellion to stop the Dominion](../space-battles/5A.md)
 
-- 🕵️ [Try to go undercover and spy on the Dominion](./scene5E.md)
+- 🕵️ [Try to go undercover and spy on the Dominion](../space-battles/5E.md)

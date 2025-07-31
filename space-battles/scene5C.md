@@ -7,6 +7,6 @@ The pilot, a charming rogue, raises an eyebrow.
 
 > “You’ve stirred up a lot of trouble. Got any plans?”
 
-- 📡 [Share the droid’s message and warn the rebellion](./scene6A.md)
+- 📡 [Share the droid’s message and warn the rebellion](../space-battles/6A.md)
 
-- 👸 [Ask for help rescuing the cloaked woman from the battle station](./scene6B.md)
+- 👸 [Ask for help rescuing the cloaked woman from the battle station](../space-battles/6B.md)

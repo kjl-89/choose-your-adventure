@@ -9,4 +9,4 @@ Just as panic starts to set in, a soft blue glow lights up the path ahead.
 
 It’s Old Ken.
 
-- ✨ [Accept his help and follow him](./scene5D.md)
+- ✨ [Accept his help and follow him](../space-battles/5D.md)

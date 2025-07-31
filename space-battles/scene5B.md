@@ -7,4 +7,4 @@ That night, he receives word: the cloaked woman has been captured. The Dominion�
 
 You can’t wait any longer.
 
-- 🛩️ [Find a pilot and flee the planet with Ken](./scene5A.md)
+- 🛩️ [Find a pilot and flee the planet with Ken](../space-battles/5A.md)

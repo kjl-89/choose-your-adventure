@@ -7,4 +7,4 @@ A single fighter, using the Spark to guide their aim, could end the war before i
 
 > “We have one shot. Who’s flying lead?”
 
-- 🛩️ [Join the assault on the battle station](./scene9A.md)
+- 🛩️ [Join the assault on the battle station](../space-battles/9A.md)
