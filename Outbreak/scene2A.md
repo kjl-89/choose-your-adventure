@@ -13,7 +13,7 @@ You look around you. The mall is in total disarray - Stores looted, people fight
 
 What do you do?
 
-- 🏃‍♂️ [Run to the parking lot to find car](./scene3A.md)
+- 🏃‍♂️ [Run to the parking lot to find your car](./scene3A.md)
 
 - 😱 [Push foward to find family!](./scene2B.md)
 
