@@ -13,7 +13,7 @@ No pain.
 No fear.
 Only hunger!
 
-The battle for survival starts in **Wisconsin**
+The battle for survival starts at the mall in **Wisconsin**
 
 [Begin your journey.](./scene1.md)
 
