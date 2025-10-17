@@ -17,7 +17,7 @@ You can't see your family.
 
 what do you do?
 
-- 📞 [Call your wife](./scene2A.mds)
+- 📞 [Call your wife](./scene2A.md)
 
 - 🏃‍♂️ [Run towards the crowd to find your family](./scene2B.md)
 
