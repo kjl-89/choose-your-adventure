@@ -12,6 +12,6 @@ Tears running down her face. 😭
 
 What do you do?
 
-- [Stay put and lockdown]
+- [Find help](./scene6B.md)
 
-- [Find help]
+- [Stay put and lockdown](./scene6C.md)
