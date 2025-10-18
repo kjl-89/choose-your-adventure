@@ -6,7 +6,7 @@ A massive barrier made of concreate and barbe wire.
 
 "Welcome to Quarantine Zone 3, you are safe now" says a soldier.
 
-They scan you and your daughter before letting you through.
+They scan you and your daughter before letting your family through.
 
 A loudspeaker rings out:
 
@@ -18,4 +18,4 @@ What do you do?
 
 - 🏥 [Take her to med bay for screening](./scene8A.md)
 
-- ❌ [Refuse the screeing]
+- ❌ [Refuse the screeing](./scene9A.md)

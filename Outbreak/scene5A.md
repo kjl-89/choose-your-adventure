@@ -9,5 +9,3 @@ In the distance - military vehicles fill the street loading people while helicop
 What do you do?
 
 - 🚗 [Go with the military](./scene6A.md)
-
-- 👟 [Avoid and find shelter]

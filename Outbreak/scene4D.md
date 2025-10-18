@@ -12,5 +12,4 @@ Now what?
 
 - 🏃‍♂️ [Say goodbye and run with your daughter](./scene5A.md)
 
-- 🏃‍♂️ [Stay and fight] 
 
