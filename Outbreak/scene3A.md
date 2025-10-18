@@ -20,6 +20,7 @@ you make it home.
 
 Now what?
 
-- 🔫 [Grab a weapon and go back for your family]
+- 🔫 [Grab a weapon and go back for your family](./scene4A.md)
 
-- 🏠 [Stay put and wait]
+- 🏠 [Stay put and wait](./scene4B.md)
+
