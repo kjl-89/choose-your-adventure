@@ -1,4 +1,4 @@
-# The chase
+# The chase 👟
 
 You break free from the soldiers.
 
