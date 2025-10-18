@@ -10,4 +10,4 @@ You hit the glass, pounding, screaming her name.
 
 Your daughter slowly disappears as white mist fills the chamber.
 
-- 😭 [Goodbye]
+- 😭 [Goodbye](./scene10A.md)
