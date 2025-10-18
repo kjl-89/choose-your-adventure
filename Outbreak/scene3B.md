@@ -11,4 +11,4 @@ You swing the hammer wildly; every impact connects to the head of every infected
 You push forward, shouting your family’s names.
 Through the chaos, you hear a faint scream. Can that be your wife and kids?
 
--[Go towards the scream, hoping it is your family] 
+- 🏃‍♂️💨 [Go towards the scream, hoping it is your family]

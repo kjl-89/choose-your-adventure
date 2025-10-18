@@ -17,8 +17,8 @@ In the back of the store, you find a **STAFF ONLY** door
 
 What do you do?
 
-- 🚪 [Run for the door](./scene3F.md)
+- 🚪 [Run for the "STAFF ONLY" door](./scene3C.md)
 
-- 🥋 [Fight the infected](./scene2A.md)
+- 🥋 [Stand with the other to fight off infected from getting in](./scene3D.md)
 
 
