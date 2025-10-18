@@ -14,6 +14,6 @@ You freeze. Another knock.
 
 What do you do?
 
-- [Go check the door]
+- [Go check the door](./scene5B.md)
 
-- [Stay quiet and wait it ou]
+- [Stay quiet and wait it out](./scene5C.md)
