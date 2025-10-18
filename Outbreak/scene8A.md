@@ -15,4 +15,4 @@ What do you do?
 
 - 👟 [break free and chase after her](./scene9A.md)
 
-- 🙏 [Pled with medic to save her]
+- 🙏 [Pled with medic to save her](./scene9B.md)
