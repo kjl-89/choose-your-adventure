@@ -12,8 +12,6 @@ Suddenly, the loudspeaker turns on:
 
 What do you do?
 
-- 🏃‍♂️ [Run to the exit](./scene3B.md)
+- 🏃‍♂️ [Run to the exit](scene3A.md)
 
-- 👆 [Go to second floor](./scene3C.md)
-
-- 🥋 [Fight the infected](./scene3D.md)
+- 🥋 [Fight to find family](./scene3B.md)
