@@ -1,4 +1,4 @@
-# go check the door
+# Go check the door
 
 **Knock**
 
