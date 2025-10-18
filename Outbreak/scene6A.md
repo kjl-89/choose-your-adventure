@@ -1,6 +1,6 @@
 # Go with the Military
 
-You lift your kids into the truck. The soldier slams the door behind you.
+You lift your daughter into the truck. The soldier slams the door behind you.
 
 Through the window, you see the city burning as the convoy speeds away.
 
