@@ -1,6 +1,6 @@
 # Scene 1: Wisconsin 
 
-You and your family were at the mall when it started. 
+You and your wife and daughter were at the mall when it started. 
 You sat at the food court, scrolling through your phone while your family shopped for the day. You noticed your phone slower than usual.
 
 Then a scream echoed through the air.
