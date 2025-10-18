@@ -1,7 +1,7 @@
 # Run to the parking lot to find your car
 
 You run through the doors into the infested parking lot.
-Your cars over a few rows back.
+Your cars is a few rows back.
 
 You're halfway to it when the alarm of a nearby car **goes off**
 

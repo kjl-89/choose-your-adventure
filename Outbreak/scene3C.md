@@ -12,4 +12,6 @@ You turn to see your group dragged down, as the infected feast on their flesh.
 
 To your left – a **maintenance door** with an EXIT sign.
 
+You push through the door, praying for a way out.
+
 - 🚪 [Enter maintenace door](./scene4C.md)

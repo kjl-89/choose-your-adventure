@@ -11,7 +11,7 @@ Then….
 
 **KNOCK**
 
-You freeze. Another knock.
+You freeze. **Another Knock**.
 
 What do you do?
 

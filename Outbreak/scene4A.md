@@ -1,6 +1,6 @@
 # The decision
 
-You grab your shotgun and ammo, ready to go back for your family.🔫
+You grab your shotgun and ammo, ready to go back for your family. 
 
 Then you remember hearing her voice echoing over the phone. 📱
 “GO HOME!”
