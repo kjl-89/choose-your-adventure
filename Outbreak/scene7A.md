@@ -6,7 +6,7 @@ A massive barrier made of concreate and barbe wire.
 
 "Welcome to Quarantine Zone 3, you are safe now" says a soldier.
 
-They scan you and your kids before letting your family through.
+They scan you and your daughter before letting you through.
 
 A loudspeaker rings out:
 
