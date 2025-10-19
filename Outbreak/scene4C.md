@@ -10,4 +10,4 @@ In desperation you call out for your wife and daughter. Your voice echoes throug
 
 A large horde of infected emerges. 
 
-- 🤫 [Hide agian]
+- 🤫 [Hide agian!](./scene5D.md)
