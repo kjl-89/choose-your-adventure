@@ -17,6 +17,6 @@ You back away slowly as the gate starts to bend.
 
 What do you do?
 
-- [The end]
+- [The end](./scene6C.md)
 
 - [Leave them]
