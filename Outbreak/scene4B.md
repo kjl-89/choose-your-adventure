@@ -1,4 +1,4 @@
-# Stay put and wait
+# Stay Put and Wait
 
 You seal all the windows and doors with wooden planks.🔨
 The house grows dark and quiet.

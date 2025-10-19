@@ -1,13 +1,13 @@
-# The decision
+# The Decision
 
 You grab your shotgun and ammo, ready to go back for your family. 
 
-Then you remember hearing her voice echoing over the phone. 📱
+You remember hearing your wife's voice echoing over the phone. 📱
 “GO HOME!”
 
-You think maybe she meant to meet at home.
+Maybe she meant to meet there.
 
-You turn and head back inside.
+You hesitate but end up turing back inside.
 
 - [Stay put and wait](./scene4B.md)
 

@@ -1,6 +1,6 @@
 # Scene 2A: The Call
 
-With trembling hands you pulled out your phone and call your wife.
+With trembling hands you pull out your phone and call your wife.
 
 The phone rings once..twice..
 
@@ -15,7 +15,7 @@ What do you do?
 
 - 🏃‍♂️ [Run to the parking lot to find your car](./scene3A.md)
 
-- 😱 [Push foward to find family!](./scene2B.md)
+- 😱 [Push forward to find family!](./scene2B.md)
 
 
 

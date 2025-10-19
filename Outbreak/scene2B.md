@@ -1,8 +1,8 @@
 # Scene 2B: Pushing into Crowd
 
-You push your way further into the mall. Dodging the infected and people who are trampling over each other in panic.
+You push your way deeper into the mall. Dodging the infected and people who are trampling over each other in panic.
 
-You search multiple stores, but there is no sign of your family.
+You search multiple stores, but there's no sign of your family.
 The sounds of screams and breaking of glass echo from every direction.
 
 More people are becoming infected by the minute. It is not safe to keep searching!

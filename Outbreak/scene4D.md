@@ -2,11 +2,17 @@
 
 You move toward the scream.
 
-Around the corner you find your kids screaming! And your wife on the floor. Blood everywhere.
+Around the corner, you find your daughter screaming!  
+Your wife on the floor, blood everywhere.
 
-“Don’t come any closer” she whispers. You see the bite on her arm.
+“Don’t come any closer” she whispers. 
 
-The infected rush towards you. She screams “Take them! GO!”
+You see the bite on her arm.
+
+The infected rush toward you. 
+She screams 
+
+“Take them! GO!”
 
 Now what?
 

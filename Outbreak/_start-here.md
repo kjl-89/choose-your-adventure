@@ -2,9 +2,9 @@
 
 ## ⚠ City Lockdown
 
-It all started on that very day. The outbreak that took the whole world by surprise. 
+It all started on that very day. The outbreak that took the world by surprise. 
 
-A failed experiment that leaked into our waters, and infected all ocean life and finally, into **us**.
+A failed experiment that leaked into our waters, infecting all ocean life and finally, into **us**.
 
 It began with rabies-like symptoms: Confusion, aggression, and dementia. In the final stage -which takes seconds- the infected experience violent seizures before falling still.
 

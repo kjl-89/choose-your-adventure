@@ -1,7 +1,7 @@
 # Run to the parking lot to find your car
 
 You run through the doors into the infested parking lot.
-Your cars is a few rows back.
+Your car is a few rows back.
 
 You're halfway to it when the alarm of a nearby car **goes off**
 
@@ -14,7 +14,7 @@ They're faster than you'd thought.
 
 The engine roars to life. You throw it in reverse and gun it out of the lot.
 The streets are a mess; cars flipped, building on fire, and distant screams.
-Smoke chokes the sky. The city is on fire.
+Smoke chokes the sky. The city is burning.
 
 you make it home.
 

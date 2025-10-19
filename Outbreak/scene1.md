@@ -6,12 +6,12 @@ You sat at the food court, scrolling through your phone while your family shoppe
 Then a scream echoed through the air.
 To your surprise, you see a bystander being attacked. At first, you thought it was a fight...but at a closer look, you see the attacker biting and there was blood everywhere. Mall security quickly pinned the man to the floor.
 
-You locked eyes with the infected man, his face pale, eyes clouded, and his bloody face twitching. 
+You lock eyes with the attacker, his face pale, eyes clouded, and his bloody mouth twitching. 
 
 In a split second, the injured bystander starts seizing and goes limp. Then it rises up and attacks Mall security.
 
 Panic erupted. People scream and run in every direction.
-You hear someone yell "DONT LET THEM BITE YOU!"
+Someone yell "DONT LET THEM BITE YOU!"
 
 You look around - chaos everywhere. 
 

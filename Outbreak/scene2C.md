@@ -3,7 +3,7 @@
 You run into a kitchen store and pull down the metal gate. 
 Before you can even catch your breath **BANG**
 
-Hundreds of infected slams into the gate, shaking it forcefully. Their vicious scream filled the halls.
+Hundreds of infected pushes into the gate, shaking it forcefully. Their vicious scream filled the halls.
 The people hiding inside the store huddled together, their faces pale, horrified about what had just happened.
 
 The gate rattles again as more infected pushes.
