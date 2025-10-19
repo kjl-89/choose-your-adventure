@@ -10,4 +10,4 @@ What do you do?
 
 - 🚗 [Go with the military](./scene6A.md)
 
-- 👟 [Avoid and head towards home]
+- 👟 [Avoid and find shelter]

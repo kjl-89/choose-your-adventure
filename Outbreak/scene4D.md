@@ -10,7 +10,7 @@ The infected rush towards you. She screams “Take them! GO!”
 
 Now what?
 
-- 🏃‍♂️ [Say goodbye and run with the kids](./scene5A.md)
+- 🏃‍♂️ [Say goodbye and run with your daughter](./scene5A.md)
 
-- 🏃‍♂️ [Stay and fight](./scene5B.md)
+- 🏃‍♂️ [Stay and fight] 
 

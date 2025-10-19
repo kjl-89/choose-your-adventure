@@ -14,4 +14,4 @@ What do you do?
 
 - [Find help](./scene6B.md)
 
-- [Stay put and lockdown](./scene6C.md)
+- [Stay put and lockdown](./scene6D.md)
