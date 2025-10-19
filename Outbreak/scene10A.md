@@ -1,13 +1,14 @@
 # The end - Good Bye 😢
 
-The mist clears and all you see is an empty chamber.
-A voice breaks the silence:
+The mist clears revealing only an empty chamber.
 
+A voice breaks the silence:
 “Containment complete.”
-You close your eyes as you whisper,
+
+You close your eyes and you whisper,
 “Goodbye, my sweetheart.”
 
-Over the intercom.
+Over the intercom. another voice:
 “Welcome to Quarantine Zone 3”
 
-THE END
+**THE END**

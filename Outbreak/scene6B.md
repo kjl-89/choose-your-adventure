@@ -1,11 +1,11 @@
-# Find help
+# Find Help
 
-The thought of losing your wife overwhelms you-😢
-but another feeling takes over.
+The thought of losing your wife overwhelms you. 😢
+But another feeling takes over.
 
 **Protecting your daughter at all costs**
 
-You grab your daughter’s hands and head out to the night.
+You grab your daughter’s hands and head out into the night.
 
 The street is in shambles – smoke, gunfire, and screams.
 

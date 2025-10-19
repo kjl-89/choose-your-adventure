@@ -1,12 +1,12 @@
 # Quarantine Zone 3
 
-After hours, the truck halts to a stop.
+After hours on the road, the truck halts to a stop.
 
-A massive barrier made of concreate and barbe wire.
+Ahead stands a massive barrier of concreate and barbe wire.
 
 "Welcome to Quarantine Zone 3, you are safe now" says a soldier.
 
-They scan you and your daughter before letting your family through.
+They scan you and your daughter before allowing you through.
 
 A loudspeaker rings out:
 

@@ -3,7 +3,7 @@
 “Are you hurt?” you ask.
 
 She hesitates, then lifts her hand.
-A small scratch runs along the side of her wrist.😱
+A small **scratch** runs along the side of her wrist.😱
 
 “Mom scratched me before turning, but I got away.”
 

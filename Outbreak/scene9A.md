@@ -1,6 +1,6 @@
 # Break Free
 
-You grab your daughter.
+You grab your daughter tightly.
 
 The commander steps in. 🎖
 
@@ -10,6 +10,7 @@ The commander steps in. 🎖
 You choose the second option.
 
 He nods once.
+
 “So be it!” 
 
 - 🌑 [Into darkness](./scene10B.md)
