@@ -2,20 +2,18 @@
 
 You move toward the scream.
 
-Around the corner, you find your daughter screaming!  
+Around the corner, you find your daughter!  
 Your wife on the floor, blood everywhere.
 
-“Don’t come any closer” she whispers. 
+“Don’t come any closer.” she whispers.
 
 You see the bite on her arm.
 
-The infected rush toward you. 
-She screams 
+The infected rush toward you.
+She screams:
 
-“Take them! GO!”
+“Take her, and GO!”
 
 Now what?
 
-- 🏃‍♂️ [Say goodbye and run with your daughter](./scene5A.md)
-
-
+* 🏃‍♂️ [Say goodbye and run with your daughter](./scene5A.md)

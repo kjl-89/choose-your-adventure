@@ -11,7 +11,6 @@ You choose the second option.
 
 He nods once.
 
-“So be it!” 
+“So be it!”
 
-- 🌑 [Into darkness](./scene10B.md)
-
+* 🌑 [Into darkness](./scene10B.md)

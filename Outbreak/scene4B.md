@@ -9,12 +9,11 @@ Hours pass...⏲
 
 Then….
 
-**KNOCK**
+**KNOCK.. KNOCK..**
 
-You freeze. **Another Knock**.
+You freeze. **KNOCK.. KNOCK..**
 
 What do you do?
 
-- [Go check the door](./scene5B.md)
-
-- [Stay quiet and wait it out](./scene5C.md)
+* [Go check the door](./scene5B.md)
+* [Stay quiet and wait it out](./scene5C.md)

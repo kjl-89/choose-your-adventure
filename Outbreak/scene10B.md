@@ -2,7 +2,7 @@
 
 The gate opens.
 
-You and your daugher steps out into the wasteland.
+You and your daughter steps out into the wasteland.
 
 Your daughter beside you.
 “Dad… What do we do now?”
@@ -13,3 +13,4 @@ You stare into the darkness.
 FADES OUT
 
 **THE END**
+

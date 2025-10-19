@@ -2,13 +2,13 @@
 
 In desperation to find your family.  You grab a hammer lying beside a shattered toolbox.🔨
 
-You tear strips of fabric from a nearby clothing store and wrap them around your arms and legs for protection.
+You tear clothes off the racks of a nearby store, thinking to yourself: "The more layers, the better".
 
 The infected are everywhere- clawing, screaming, stumbling throughout the mall towards you.
 
-You swing the hammer wildly; every impact connects to the head of every infected in your path.
+You swing the hammer wildly; every impact cracks against the head of every infected in your path.
 
 You push forward, shouting your family’s names.
-Through the chaos, you hear a faint scream. Can that be your wife and kids?
+Through the chaos, you hear a faint scream. Could that be your wife and daughter?
 
-- 🏃‍♂️💨 [Go towards the scream, hoping it is your family](./scene4D.md)
+* 🏃‍♂️💨 [Go towards the scream, hoping it is your family](./scene4D.md)

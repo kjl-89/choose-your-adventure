@@ -13,6 +13,5 @@ Before you can react, soldiers grab you, and drag your daughter away.
 
 What do you do?
 
-- 👟 [break free and save your daugher](./scene9A.md)
-
-- 🙏 [Pled with medic to save her](./scene9B.md)
+* 👟 [break free and save your daughter](./scene9A.md)
+* 🙏 [Pled with medic to save her](./scene9B.md)
