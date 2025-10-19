@@ -5,7 +5,7 @@
 She hesitates, then lifts her hand.
 A small **scratch** runs along the side of her wrist.😱
 
-“Mom scratched me before turning, but I got away.”
+“Mom scratched me before she turn, but I got away.”
 
 She shows no sign of symptoms.❌🤒
 
